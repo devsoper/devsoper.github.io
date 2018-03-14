@@ -63,19 +63,47 @@ Employment
 Research & Scholarship
 ===========
 
-2017
+2018
 ----
+**Symposium &#x007C; Florida State University Open Education Symposium.**
+Led planning team for one-day symposium on OER and open pedagogy, featuring a keynote presentation by Dr. David Wiley, CAO of Lumen Learning. Secured funding, venue, and speakers; created event program and website; promoted event to faculty, staff, and students at FSU, local higher education institutions, and the broader OER community. [Symposium website](https://www.lib.fsu.edu/events/open-education-symposium), [recordings](https://www.lib.fsu.edu/events/open-education-symposium/livestream), and [OSF instance](https://osf.io/pcwfz/) with outputs and planning materials.
+
 **Book chapter &#x007C; Expediting OER on campus: A multifaceted approach.** Co-authored with Lindsey Wharton & Jeff Phillips. Forthcoming chapter in *The Evolution of Affordable Content Efforts in the Higher Education Environment*, edited by Kirsti Jensen and Shane Nackerud. [http://open.lib.umn.edu/affordablecontent/](http://open.lib.umn.edu/affordablecontent/)
 
-**Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips. Forthcoming presentation at the 14th Annual Open Education Conference, Anaheim, CA.
+**Panel presentation &#x007C; FSU Libraries Digital Publishing Colloquium.** Co-presented with Cheryl Ball, Renaine Julian, Ann Rowson Love, Sarah Everly, and Roxann Mouratidis. Colloquium [website](https://goo.gl/forms/6lDRPo8nFY9nD9wJ2) and [my slides](https://docs.google.com/presentation/d/1EpcjLo4VXMzqLNOT3YfucYEghZM4AIbQ1paiGq11xTk/edit?usp=sharing)
 
-**Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article under revision for resubmission to *Educational Researcher*.
+**Research study &#x007C; Assessing faculty and student readiness for textbook affordability initiatives at FSU.**  Working with Dr. Marcia Mardis (co-PI) and two [Undergraduate Research Opportunity](https://cre.fsu.edu/programs/urop-undergraduate-research-opportunity-program) students, conducted literature review, developed survey instruments (4) and semi-structured interview script, and obtained IRB approval. Data collection and analysis ongoing. [OSF project instance](https://osf.io/p2a3m/)
 
-**Book review &#x007C; Open Access and the Future of Scholarly Communication: Implementation.** Review submitted for publication in *Technical Services Quarterly*.
+**Research study &#x007C; Assessing the publishing needs of faculty editors.** Working with Matt Hunter and Liz Dunne, conducted literature review, developed survey instrument, and obtained IRB approval. Data collection and analysis ongoing. 
 
-**Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September issue of *College & Research Libraries News*.
+2017
+----
+**Fellowship &#x007C; [SPARC Open Education Leadership Program](https://sparcopen.org/our-work/open-education-leadership-program/).** Selected for pilot cohort of 14 fellows from SPARC member libraries. Published several blog posts on open education for postsecondary instructors:
+* [Thoughts on the benefits of OER for postsecondary instructors](http://bit.ly/2FlZeYw) 
+* [On barriers to adopting OER, and some strategies for overcoming them](http://bit.ly/2GAmKQO)
+* [The critical role of open licensing: A brief into to creative commons for postsecondary instructors](http://bit.ly/2Fm4BHf)
+* [On finding and evaluating OER](http://bit.ly/2CcQ5mh) 
+* [So, you want to create an OER? Some advice on getting started](http://bit.ly/2FmB0x4) 
+* [From OER to open pedagogy](http://bit.ly/2GBUld4)
+* [On sustaining and OER initiative](http://bit.ly/2zQZo6L)
 
-**Preprint &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
+**Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips at the 14th Annual Open Education Conference, Anaheim, CA. [Slides available here](http://bit.ly/2yd0gVv).
+
+**Webinar &#x007C; Islandora Scholar and the landscape of open source options.** Co-presented with Bryan Brown. [Webinar information](https://www.lyrasis.org/content/Pages/Event-Details.aspx?Eid=1F99AFB8-AD89-E711-80E1-00155D73CF16) and [slides](https://docs.google.com/presentation/d/1-AkI1-bT7bVffiKbhT8tQhZziu8Omck7H7KPdl_PV9w/edit?usp=sharing).
+
+**Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article revised and resubmitted to *Educational Researcher*.
+
+**Book review &#x007C; Open Access and the Future of Scholarly Communication: Implementation.** Review published in *Technical Services Quarterly 35*(1). [https://doi.org/10.1080/07317131.2017.1385329](https://doi.org/10.1080/07317131.2017.1385329) ([open access version](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1512405040_d44deba9))
+
+**Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September 2017 issue of *College & Research Libraries News*.
+[https://doi.org/10.5860/crln.78.8.432](https://doi.org/10.5860/crln.78.8.432)
+
+**Article &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. *Journal of New Librarianship 2*(2) [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto)
+
+**Discussion series &#x007C; FSU Libraries Scholarly Communication Cafes, Fall 2017.**
+* [Core IR Functionality and Use Cases](https://docs.google.com/document/d/1dS8zeq-tZA_o_SshYyGUAdySV14JMEp5OYdGnzHJj80/edit?usp=sharing)
+* [ORCID, The Open Researcher and Contributor ID](https://docs.google.com/document/d/1ImZ4wLEAewtaGv0PqZFc0CTmMGA5LiFms9jxyVjU8cE/edit?usp=sharing)
+* [From OER to Open Pedagogy](https://docs.google.com/presentation/d/1uyYMoqhNo_c6ycduzPEhf0lFt3_ckbsqcfpgsrCYIZE/edit?usp=sharing)
 
 **Training series &#x007C; Know Your Copyrights!** Planned and delivered with Rory Grennan, Aaron Retteen, & Mackenzie Lightfoot. [Copyright workshop series](https://www.lib.fsu.edu/workshops/know-your-copyrights) for local library staff, based on materials from Kyle K. Courtney’s [Copyright Workshops at Tulane University](http://libguides.tulane.edu/copyrightworkshop/materials).
 * Fair Use: Past, Present, and Future of a Critical Right - [slides](https://docs.google.com/presentation/d/14Y64MwTGYls6ZoaVw4gdHCh_fUfzuPiXJR4eGyNBA3o/edit?usp=sharing) and [recording](https://www.youtube.com/watch?v=_8uCOXIgzvU)
@@ -176,9 +204,9 @@ Current Service
 
 Vice-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2017- )
 
-Member, Glasstree Academic Advisory Board (2017- )
-
 Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017- )
+
+Member, Florida Virtual Campus Textbook Affordability and OER Standing Committee (2017- )
 
 Chair, Coalition of Open Access Policy Institutions (COAPI) Toolkit Working Group (2016- )
 
@@ -198,9 +226,12 @@ Service Appointments Fulfilled
 
 Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) (2016-2017)
 
+Member, Glasstree Academic Advisory Board (2017)
+
 Islandora Release Teams:
-* Islandora 7.x-1.9 documentation
-* Islandora 7.x-1.8 testing
+* Islandora 7.x-1.10 auditing (2017)
+* Islandora 7.x-1.9 documentation (2017)
+* Islandora 7.x-1.8 testing (2016)
 
 Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
 
