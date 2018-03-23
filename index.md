@@ -229,6 +229,7 @@ Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) 
 Member, Glasstree Academic Advisory Board (2017)
 
 Islandora Release Teams:
+* Islandora 7.x-1.11 auditing (2018)
 * Islandora 7.x-1.10 auditing (2017)
 * Islandora 7.x-1.9 documentation (2017)
 * Islandora 7.x-1.8 testing (2016)
