@@ -1,7 +1,7 @@
 
 # Devin Soper #
 
-  * Scholarly Communications Librarian at Florida State University Libraries in Tallahassee, Florida
+  * Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
   * Email - work dsoper@fsu.edu personal devsoper@gmail.com
   * ORCID - [0000-0002-2667-4594](http://orcid.org/0000-0002-2667-4594)
 
@@ -33,15 +33,10 @@ Education
 
 Employment
 ==========
-2015 - Present &#x007C; Scholarly Communications Librarian, Florida State University
 
-* Research Repository service manager
-* Faculty Senate Open Access Policy implementation lead
-* Copyright education and support program lead
-* OER initiatives lead
-* Open Access book and journal publishing service manager
-* Open Access publishing fund service manager
-* Digital scholarship project support
+2018 - Present &#x007C; Director, Office of Digital Research & Scholarship, Florida State University
+
+2015 - 2018 &#x007C; Scholarly Communications Librarian, Florida State University
 
 2014-2015 &#x007C; Managing Librarian, Chapman Learning Commons, University of British Columbia
 
@@ -65,6 +60,15 @@ Research & Scholarship
 
 2018
 ----
+**Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article published in *Educational Researcher 47*(7). [https://doi.org/10.3102%2F0013189X18782974](http://journals.sagepub.com/stoken/default+domain/mNc7rK5rQWudaeq3vUqw/full)
+
+**Conference presentation  &#x007C; Can I use this? A framework for making copyright determinations in 21st-century libraries.** Leading Edge Libraries Conference, Orlando, FL. [My slides](https://docs.google.com/presentation/d/1gZB_VUc5pkW_5k3xnTomFKctpC1WzJ-Rh9tqEicNkcc/edit?usp=sharing)
+ 
+**Presentation  &#x007C; From OER to open pedagogy: An introduction to teaching and learning in the open.** Invited presentation at Florida Agricultural and Mechanical University’s 2018 Provost’s Digital Learning Initiative. [My slides](https://docs.google.com/presentation/d/1IN4_W8SL8oINqCkmzGz9JlNN8WXGF1Lt86-0Ur28lRs/edit?usp=sharing)
+
+**Presentation  &#x007C; Finding ancillary materials to support open textbook adoption.** Invited presentation at TCC Online’s OER Summer Institute. 
+[My slides](https://docs.google.com/presentation/d/1-NyXALb1vpqu3N21Vom2uj5ytnRM_gi0ozvI1_PXXoE/edit?usp=sharing)
+
 **Symposium &#x007C; Florida State University Open Education Symposium.**
 Led planning team for one-day symposium on OER and open pedagogy, featuring a keynote presentation by Dr. David Wiley, CAO of Lumen Learning. Secured funding, venue, and speakers; created event program and website; promoted event to faculty, staff, and students at FSU, local higher education institutions, and the broader OER community. [Symposium website](https://www.lib.fsu.edu/events/open-education-symposium), [recordings](https://www.lib.fsu.edu/events/open-education-symposium/livestream), and [OSF instance](https://osf.io/pcwfz/) with outputs and planning materials.
 
@@ -90,8 +94,6 @@ Led planning team for one-day symposium on OER and open pedagogy, featuring a ke
 **Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips at the 14th Annual Open Education Conference, Anaheim, CA. [Slides available here](http://bit.ly/2yd0gVv).
 
 **Webinar &#x007C; Islandora Scholar and the landscape of open source options.** Co-presented with Bryan Brown. [Webinar information](https://www.lyrasis.org/content/Pages/Event-Details.aspx?Eid=1F99AFB8-AD89-E711-80E1-00155D73CF16) and [slides](https://docs.google.com/presentation/d/1-AkI1-bT7bVffiKbhT8tQhZziu8Omck7H7KPdl_PV9w/edit?usp=sharing).
-
-**Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article revised and resubmitted to *Educational Researcher*.
 
 **Book review &#x007C; Open Access and the Future of Scholarly Communication: Implementation.** Review published in *Technical Services Quarterly 35*(1). [https://doi.org/10.1080/07317131.2017.1385329](https://doi.org/10.1080/07317131.2017.1385329) ([open access version](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1512405040_d44deba9))
 
@@ -202,13 +204,13 @@ Melissa Gross, Thomas Joiner, & David Kirby. Invited panel presentation for Flor
 Current Service
 ===============
 
-Vice-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2017- )
+Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2018- )
+
+Member, Library Publishing Coalition Professional Development Committee (2018- )
 
 Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017- )
 
 Member, Florida Virtual Campus Textbook Affordability and OER Standing Committee (2017- )
-
-Chair, Coalition of Open Access Policy Institutions (COAPI) Toolkit Working Group (2016- )
 
 Co-Chair, Florida State University Open Access Advisory Board (2016- ) 							
 
@@ -224,15 +226,18 @@ Referee:
 Service Appointments Fulfilled
 ==============================
 
+Vice-Chair, COAPI Steering Committee (2017-2018)
+
 Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) (2016-2017)
 
 Member, Glasstree Academic Advisory Board (2017)
 
 Islandora Release Teams:
-* Islandora 7.x-1.11 auditing (2018)
 * Islandora 7.x-1.10 auditing (2017)
 * Islandora 7.x-1.9 documentation (2017)
 * Islandora 7.x-1.8 testing (2016)
+
+Chair, Coalition of Open Access Policy Institutions (COAPI) Toolkit Working Group (2016-2017)
 
 Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
 
