@@ -58,6 +58,24 @@ Employment
 Research & Scholarship
 ===========
 
+2019
+----
+**Conference poster presentation  &#x007C; Librarians as OER advocates and leaders.** Co-presented with Talea Anderson, Christopher Barnes, Will Cross, Stephanie Quail, Michelle Reed, and Elaine Thornton. Association of College and Research Libraries 2019, Cleveland, OH. [Digital poster](https://acrl2019-acrl.ipostersessions.com/default.aspx?s=DA-12-1B-18-20-E5-EC-07-92-4A-8D-71-53-EE-80-A7)
+
+**Conference presentation  &#x007C; Know Your copyrights: News from the front.** Co-presented with Rory Grennan. Tampa Bay Library Consortium Annual Conference, Plant City, FL. [Slides](https://docs.google.com/presentation/d/1xEqrlH5hzjVLsgLkpGVdu_oxNH_ab58OES1j92pr0Jc/edit?usp=sharing) 
+
+**Conference presentation  &#x007C; The library's role in research information management systems.** Co-presented with Mike Conlon, Anne Rauh, and Jan Fransen. National Forum on Expert Finder Systems, Orlando, FL. [My slides](https://drive.google.com/open?id=19adsNxuXehRkQm6IpVW6ExPsZ-neauoy)
+
+**Invited lecture &#x007C; Scholarly communication issues in research data management.** Guest lecture for LIBR 559S, Research Data Management for Information Professionals, UBC School of Library, Archival, and Information Studies. [My slides](https://docs.google.com/presentation/d/1xTDrJa8RGpwLc9wH_5HQrJjVnGEg4vhPgdExsqjFP0k/edit?usp=sharing)
+
+**Invited lecture &#x007C; The ethics of open access.** Guest lecture for IFS2041, Information Ethics, FSU School of Information. [My slides](https://docs.google.com/presentation/d/1MullO4xvJnZfs14jJhW53ui6OF05FtJM--s-bQ-r2bw/edit?usp=sharing)
+
+**Invited lecture &#x007C; Protecting your designs, inventions, and writing: An intellectual property primer.** Guest lecture for Responsible Conduct of Research course, FSU Graduate School. [My slides](http://bit.ly/2O5webE)
+
+**Webinar &#x007C; Creating a professional social identity.** Co-presented with Denise Wetzel. Panhandle Library Access Network. Webinar [recording](https://www.plan.lib.fl.us/files/2019-01-23_social.wmv) and [slides](https://docs.google.com/presentation/d/1OpbwrAra6G0W4p5M7fokbq-zshkWml83cDTObSAwLmQ/edit?usp=sharing)
+
+**Report &#x007C; FSU Faculty Senate Open Access Policy: Three-year report, 2016-2018.** Co-authored with Rachel Smart and Laura Miller. [Full report](https://drive.google.com/open?id=1mm5KFy6rW0845zxMMyLqYTOCWZDY58oX)
+
 2018
 ----
 **Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article published in *Educational Researcher 47*(7). [https://doi.org/10.3102%2F0013189X18782974](http://journals.sagepub.com/stoken/default+domain/mNc7rK5rQWudaeq3vUqw/full)
