@@ -62,7 +62,7 @@ Research & Scholarship
 ----
 **Conference poster presentation  &#x007C; Librarians as OER advocates and leaders.** Co-presented with Talea Anderson, Christopher Barnes, Will Cross, Stephanie Quail, Michelle Reed, and Elaine Thornton. Association of College and Research Libraries 2019, Cleveland, OH. [Digital poster](https://acrl2019-acrl.ipostersessions.com/default.aspx?s=DA-12-1B-18-20-E5-EC-07-92-4A-8D-71-53-EE-80-A7)
 
-**Conference presentation  &#x007C; Know Your copyrights: News from the front.** Co-presented with Rory Grennan. Tampa Bay Library Consortium Annual Conference, Plant City, FL. [Slides](https://docs.google.com/presentation/d/1xEqrlH5hzjVLsgLkpGVdu_oxNH_ab58OES1j92pr0Jc/edit?usp=sharing) 
+**Conference presentation  &#x007C; Know your copyrights: News from the front.** Co-presented with Rory Grennan. Tampa Bay Library Consortium Annual Conference, Plant City, FL. [Slides](https://docs.google.com/presentation/d/1xEqrlH5hzjVLsgLkpGVdu_oxNH_ab58OES1j92pr0Jc/edit?usp=sharing) 
 
 **Conference presentation  &#x007C; The library's role in research information management systems.** Co-presented with Mike Conlon, Anne Rauh, and Jan Fransen. National Forum on Expert Finder Systems, Orlando, FL. [My slides](https://drive.google.com/open?id=19adsNxuXehRkQm6IpVW6ExPsZ-neauoy)
 
