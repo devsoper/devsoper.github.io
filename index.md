@@ -60,6 +60,10 @@ Research & Scholarship
 
 2019
 ----
+**Article &#x007C; Taking OER abroad with library-led partnerships.** Co-authored with Lindsey Wharton. Article published in *International Journal of Open Educational Resources 2*(1). Retrieved from [https://www.ijoer.org/taking-oer-abroad-with-library-led-partnerships-doi10-18278-ijoer-2-1-4/](https://www.ijoer.org/taking-oer-abroad-with-library-led-partnerships-doi10-18278-ijoer-2-1-4/)
+
+**Roundtable discussion &#x007C; Collaborating to align journal licensing practices around open principles.** Panhandle Library Access Network Academic Libraries Conference 2019, Tallahassee, FL. [Discussion document](https://docs.google.com/document/d/1qSkGyxLkNbG0Yr33V_5ar-dZQwN0l4X2WEV7kfuQmFk/edit?usp=sharing) 
+
 **Conference poster presentation  &#x007C; Librarians as OER advocates and leaders.** Co-presented with Talea Anderson, Christopher Barnes, Will Cross, Stephanie Quail, Michelle Reed, and Elaine Thornton. Association of College and Research Libraries 2019, Cleveland, OH. [Digital poster](https://acrl2019-acrl.ipostersessions.com/default.aspx?s=DA-12-1B-18-20-E5-EC-07-92-4A-8D-71-53-EE-80-A7)
 
 **Conference presentation  &#x007C; Know your copyrights: News from the front.** Co-presented with Rory Grennan. Tampa Bay Library Consortium Annual Conference, Plant City, FL. [Slides](https://docs.google.com/presentation/d/1xEqrlH5hzjVLsgLkpGVdu_oxNH_ab58OES1j92pr0Jc/edit?usp=sharing) 
