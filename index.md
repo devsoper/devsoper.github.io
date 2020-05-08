@@ -58,6 +58,19 @@ Employment
 Research & Scholarship
 ===========
 
+
+2020
+----
+**Lightning talk &#x007C; ORCID @ FSU: Connecting research and researchers.** Presented at the [Expertise Systems in Florida Universities](https://expertnet.org/expertiseSymposium/index.html) virtual symposium. [Slides](https://docs.google.com/presentation/d/1ZhgOmbKIcQ2moJde20NA2V4yv-U4s0xyaIOtE2nAdT4/edit?usp=sharing). 
+
+**Conference presentation &#x007C; Ask the editors: Expanded uses for faculty needs assessments.** Co-presented with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter. Library Publishing Forum 2020, virtual due to COVID-19 pandemic. [Slides](https://docs.google.com/presentation/d/1AnOqtkyGBJ3fpqUc2K0Fz7Zc0plw8nC6ij_jZNiDhHY/edit?usp=sharing). 
+
+**Report &#x007C; Library publishing competencies.** Co-authored with the Library Publishing Coalition Professional Development Committee: Allison Brown, Emily Cole, Adrian Ho, Amanda Hurford, Melanie Kowalski, Ally Laird, Jessica Lange, Carrye Syma, Ted Polley, Christine Fruin, and Melanie Schlosser. [http://dx.doi.org/10.5703/1288284317123](http://dx.doi.org/10.5703/1288284317123)
+
+**SPARC/COAPI Community Calls.** Planned and facilitated with the Coalition of Open Access Policy Institutions (COAPI) Community Call Working Group: Carolyn Mills and Robin Sinn. 
+* The Future of the Institutional Repository, January 22nd. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.eyak1m142nee).
+* Tailoring Transformative Agreements to Advance Green Open Access, April 7th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#heading=h.6roaw9m9jq28).
+
 2019
 ----
 **Article &#x007C; Taking OER abroad with library-led partnerships.** Co-authored with Lindsey Wharton. Article published in *International Journal of Open Educational Resources 2*(1). Retrieved from [https://www.ijoer.org/taking-oer-abroad-with-library-led-partnerships-doi10-18278-ijoer-2-1-4/](https://www.ijoer.org/taking-oer-abroad-with-library-led-partnerships-doi10-18278-ijoer-2-1-4/)
