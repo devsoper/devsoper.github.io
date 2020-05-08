@@ -239,19 +239,13 @@ Melissa Gross, Thomas Joiner, & David Kirby. Invited panel presentation for Flor
 Current Service
 ===============
 
-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2018- )
+Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019- )
+
+Chair, COAPI Community Call Working Group (2019- )
 
 Member, Library Publishing Coalition Professional Development Committee (2018- )
 
-Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017- )
-
 Member, Florida Virtual Campus Textbook Affordability and OER Standing Committee (2017- )
-
-Co-Chair, Florida State University Open Access Advisory Board (2016- ) 							
-
-Founding member, Florida Islandora Institutional Repository Transformation (FLIIRT) Project (2016- )
-
-Chair, Florida State University Libraries Copyright Committee (2015- )							
 
 Referee:
 * Journal of Librarianship and Scholarly Communication (2017- )
@@ -261,9 +255,19 @@ Referee:
 Service Appointments Fulfilled
 ==============================
 
+Chair, Florida State University Libraries Research Data Services Planning Team (2019)
+
+Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2018-2019)
+
 Vice-Chair, COAPI Steering Committee (2017-2018)
 
 Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) (2016-2017)
+
+Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017-2019)
+
+Co-Chair, Florida State University Open Access Advisory Board (2016-2019) 
+
+Founding member, Florida Islandora Institutional Repository Transformation (FLIIRT) Project (2016-2017)
 
 Member, Glasstree Academic Advisory Board (2017)
 
@@ -273,6 +277,8 @@ Islandora Release Teams:
 * Islandora 7.x-1.8 testing (2016)
 
 Chair, Coalition of Open Access Policy Institutions (COAPI) Toolkit Working Group (2016-2017)
+
+Chair, Florida State University Libraries Copyright Committee (2015-2020)
 
 Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
 
