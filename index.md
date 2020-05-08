@@ -239,6 +239,8 @@ Melissa Gross, Thomas Joiner, & David Kirby. Invited panel presentation for Flor
 Current Service
 ===============
 
+Chair, Florida State University ORCID Task Force (2020- )
+
 Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019- )
 
 Chair, COAPI Community Call Working Group (2019- )
@@ -255,6 +257,12 @@ Referee:
 Service Appointments Fulfilled
 ==============================
 
+Member, Florida State University Libraries Strategic Planning Team (2019-2020)
+
+Member, International Open Access Week Advisory Committee (2019)
+
+Mentor, SPARC Open Education Leadership Program (2019-2020)
+
 Chair, Florida State University Libraries Research Data Services Planning Team (2019)
 
 Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2018-2019)
@@ -265,6 +273,8 @@ Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) 
 
 Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017-2019)
 
+Chair, Florida State University Open & Affordable Textbook Initiative (2016-2019)
+
 Co-Chair, Florida State University Open Access Advisory Board (2016-2019) 
 
 Founding member, Florida Islandora Institutional Repository Transformation (FLIIRT) Project (2016-2017)
@@ -272,6 +282,8 @@ Founding member, Florida Islandora Institutional Repository Transformation (FLII
 Member, Glasstree Academic Advisory Board (2017)
 
 Islandora Release Teams:
+* Islandora 7.x-1.13 auditing (2019)
+* Islandora 7.x-1.11 auditing (2018)
 * Islandora 7.x-1.10 auditing (2017)
 * Islandora 7.x-1.9 documentation (2017)
 * Islandora 7.x-1.8 testing (2016)
