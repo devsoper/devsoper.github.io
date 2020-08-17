@@ -244,6 +244,8 @@ National, Regional, or Statewide Service
 ----
 Co-Chair, Association of Southeastern Research Libraries Scholarly Communications Interest Group (2020-2021)
 
+Member, [Expertise Systems in Florida Universities](https://expertnet.org/expertisesymposium/index.html) Virtual Symposium Steering Committee (2020) 
+
 Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019-2020)
 
 Chair, COAPI Community Call Working Group (2019- )
