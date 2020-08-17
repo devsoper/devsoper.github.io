@@ -299,6 +299,8 @@ Library Service
 ----
 Chair, Florida State University Libraries Faculty Evaluation Committee (2020-2021)
 
+Member, Florida State University Libraries Collections Services and Strategies Committee (2020- )
+
 Vice Chair, Florida State University Libraries Faculty Evaluation Committee (2019-2020)
 
 Member, Florida State University Libraries Strategic Planning Team (2019-2020)
