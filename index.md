@@ -236,50 +236,41 @@ Melissa Gross, Thomas Joiner, & David Kirby. Invited panel presentation for Flor
 [http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1892](http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1892)
 
 
-Current Service
+Service
 ===============
 
-Chair, Florida State University ORCID Task Force (2020- )
 
-Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019- )
+National, Regional, or Statewide Service
+----
+Co-Chair, Association of Southeastern Research Libraries Scholarly Communications Interest Group (2020-2021)
+
+Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019-2020)
 
 Chair, COAPI Community Call Working Group (2019- )
-
-Member, Library Publishing Coalition Professional Development Committee (2018- )
-
-Member, Florida Virtual Campus Textbook Affordability and OER Standing Committee (2017- )
-
-Referee:
-* Journal of Librarianship and Scholarly Communication (2017- )
-* Bulletin of Science, Technology & Society (2016- )
-
-
-Service Appointments Fulfilled
-==============================
-
-Member, Florida State University Libraries Strategic Planning Team (2019-2020)
 
 Member, International Open Access Week Advisory Committee (2019)
 
 Mentor, SPARC Open Education Leadership Program (2019-2020)
 
-Chair, Florida State University Libraries Research Data Services Planning Team (2019)
+Member, Library Publishing Coalition Professional Development Committee (2018-2020)
 
-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2018-2019)
+Chair, COAPI Steering Committee (2018-2019)
 
 Vice-Chair, COAPI Steering Committee (2017-2018)
 
-Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) (2016-2017)
+Member, Florida Virtual Campus Textbook Affordability and OER Standing Committee (2017-2020)
+
+General Reviewer, Journal of Librarianship and Scholarly Communication (2017- )
 
 Member, Florida State University System Board of Governors OER/eText Coordinating Committee (2017-2019)
 
-Chair, Florida State University Open & Affordable Textbook Initiative (2016-2019)
+Member, Glasstree Academic Advisory Board (2017)
 
-Co-Chair, Florida State University Open Access Advisory Board (2016-2019) 
+Member, COAPI Steering Committee (2016-2017)
 
 Founding member, Florida Islandora Institutional Repository Transformation (FLIIRT) Project (2016-2017)
 
-Member, Glasstree Academic Advisory Board (2017)
+Chair, COAPI Toolkit Working Group (2016-2017)
 
 Islandora Release Teams:
 * Islandora 7.x-1.13 auditing (2019)
@@ -288,11 +279,47 @@ Islandora Release Teams:
 * Islandora 7.x-1.9 documentation (2017)
 * Islandora 7.x-1.8 testing (2016)
 
-Chair, Coalition of Open Access Policy Institutions (COAPI) Toolkit Working Group (2016-2017)
+University Service
+----
+Chair, Florida State University ORCID Task Force (2020- )
+
+Member, Florida State University Faculty Development Research Team (2018-2020)
+
+Chair, Florida State University Open & Affordable Textbook Initiative (2016-2019)
+
+Co-Chair, Florida State University Open Access Advisory Board (2016-2019) 
+
+Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
+
+Library Service
+----
+Chair, Florida State University Libraries Faculty Evaluation Committee (2020-2021)
+
+Vice Chair, Florida State University Libraries Faculty Evaluation Committee (2019-2020)
+
+Member, Florida State University Libraries Strategic Planning Team (2019-2020)
+
+Chair, Florida State University Libraries Research Data Services Planning Team (2019)
+
+Member, Florida State University Libraries LibTEAM (2018- )
+
+Alternate, Florida State University Libraries Faculty Promotion Committee (2018, 2020)
+
+Member, Florida State University Libraries Professional Development Symposium Planning Team (2017-2018)
+
+Member, Florida State University Libraries STEM II Balanced Scorecard Initiative (2017)
+
+Parliamentarian, Florida State University Libraries Faculty Assembly Executive Committee (2016-2017)
+
+Member, Florida State University Libraries Instruction Balanced Scorecard Initiative (2016)
 
 Chair, Florida State University Libraries Copyright Committee (2015-2020)
 
-Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
+Member, Florida State University Libraries DigiNole Working Group (2015- )
+
+Member, Florida State University Libraries Research Repository Working Group (2015- )
+
+Chair, Florida State University Libraries Open Access Week Planning Team (2015-2017)
 
 Co-Chair, University of British Columbia Library Copyright Advisory Group (2014)
 
