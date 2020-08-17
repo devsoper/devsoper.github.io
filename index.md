@@ -61,6 +61,8 @@ Research & Scholarship
 
 2020
 ----
+**Article under review &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and submitted to the *Journal of Librarianship and Scholarly Communication*.
+
 **Lightning talk &#x007C; ORCID @ FSU: Connecting research and researchers.** Presented at the [Expertise Systems in Florida Universities](https://expertnet.org/expertiseSymposium/index.html) virtual symposium. [Slides](https://docs.google.com/presentation/d/1ZhgOmbKIcQ2moJde20NA2V4yv-U4s0xyaIOtE2nAdT4/edit?usp=sharing). 
 
 **Conference presentation &#x007C; Ask the editors: Expanded uses for faculty needs assessments.** Co-presented with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter. Library Publishing Forum 2020, virtual due to COVID-19 pandemic. [Slides](https://docs.google.com/presentation/d/1AnOqtkyGBJ3fpqUc2K0Fz7Zc0plw8nC6ij_jZNiDhHY/edit?usp=sharing). 
