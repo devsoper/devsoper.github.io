@@ -137,7 +137,7 @@ Led planning team for one-day symposium on OER and open pedagogy, featuring a ke
 **Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September 2017 issue of *College & Research Libraries News*.
 [https://doi.org/10.5860/crln.78.8.432](https://doi.org/10.5860/crln.78.8.432)
 
-**Article &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. *Journal of New Librarianship 2*(2) [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto)
+**Article &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. *Journal of New Librarianship 2*(2) [https://newlibs.org/index.php/jonl/article/view/615](https://newlibs.org/index.php/jonl/article/view/615)
 
 **Discussion series &#x007C; FSU Libraries Scholarly Communication Cafes, Fall 2017.**
 * [Core IR Functionality and Use Cases](https://docs.google.com/document/d/1dS8zeq-tZA_o_SshYyGUAdySV14JMEp5OYdGnzHJj80/edit?usp=sharing)
