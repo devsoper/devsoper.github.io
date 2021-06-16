@@ -64,6 +64,11 @@ Research & Scholarship
 
 **Article &#x007C; Launching an institutional ORCID initiative at Florida State University.** Co-authored with Kelly Grove. Article published in *Issues in Science and Technology Librarianship 96*. Retrieved from [https://doi.org/10.29173/istl2581](https://doi.org/10.29173/istl2581)
 
+**SPARC/COAPI Community Calls.** Planned and facilitated with the Coalition of Open Access Policy Institutions (COAPI) Community Call Working Group: Carolyn Mills and Robin Sinn. 
+* Expanding Open Access Policy Beyond the Faculty, January 28th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.nj6uzyrs0vap).
+* COAPI Open House, March 30th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.oraj4ssb3qsz).
+* Making Green Open Access Work for Society Publishers: A Panel Discussion, June 16th. [Agenda and notes](https://docs.google.com/document/d/1afnjMAppuQIDZW6WUrD_KkaERA48klnjdFqZkEFyE30/edit?usp=sharing).
+
 2020
 ----
 
@@ -76,6 +81,8 @@ Research & Scholarship
 **SPARC/COAPI Community Calls.** Planned and facilitated with the Coalition of Open Access Policy Institutions (COAPI) Community Call Working Group: Carolyn Mills and Robin Sinn. 
 * The Future of the Institutional Repository, January 22nd. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.eyak1m142nee).
 * Tailoring Transformative Agreements to Advance Green Open Access, April 7th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#heading=h.6roaw9m9jq28).
+* Opportunities for Open Access in a COVID-19 World, July 22nd. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.fkki5r7s7d5x).
+* Funding Open During Challenging Budget Times, October 26th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.aaskhw9lzwc9).
 
 2019
 ----
