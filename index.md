@@ -289,6 +289,8 @@ Islandora Release Teams:
 
 University Service
 ----
+Senator, Florida State University Faculty Senate (2021-2023)
+
 Chair, Florida State University ORCID Task Force (2020- )
 
 Member, Florida State University Faculty Development Research Team (2018-2020)
