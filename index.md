@@ -58,10 +58,14 @@ Employment
 Research & Scholarship
 ===========
 
+2021
+----
+**Article under review &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and submitted to the *Journal of Librarianship and Scholarly Communication*.
+
+**Article &#x007C; Launching an institutional ORCID initiative at Florida State University.** Co-authored with Kelly Grove. Article published in *Issues in Science and Technology Librarianship 96*. Retrieved from [https://doi.org/10.29173/istl2581](https://doi.org/10.29173/istl2581)
 
 2020
 ----
-**Article under review &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and submitted to the *Journal of Librarianship and Scholarly Communication*.
 
 **Lightning talk &#x007C; ORCID @ FSU: Connecting research and researchers.** Presented at the [Expertise Systems in Florida Universities](https://expertnet.org/expertiseSymposium/index.html) virtual symposium. [Slides](https://docs.google.com/presentation/d/1ZhgOmbKIcQ2moJde20NA2V4yv-U4s0xyaIOtE2nAdT4/edit?usp=sharing). 
 
