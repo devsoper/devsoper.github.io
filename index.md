@@ -303,6 +303,8 @@ Co-Chair, Florida State University Faculty Senate Scholarly Communications Task 
 
 Library Service
 ----
+Chair-Elect, Florida State University Libraries Faculty Assembly Executive Committee (2021-2022)
+
 Chair, Florida State University Libraries Faculty Evaluation Committee (2020-2021)
 
 Member, Florida State University Libraries Collections Services and Strategies Committee (2020- )
