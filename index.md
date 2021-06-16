@@ -55,7 +55,7 @@ Employment
 2010 &#x007C; Library Practicum Student, Digital Initiatives, University of British Columbia
 
 
-Research & Scholarship
+Research & Service Outputs
 ===========
 
 2021
@@ -253,7 +253,7 @@ Service
 ===============
 
 
-National, Regional, or Statewide Service
+National, Regional, or Statewide Service Appointments
 ----
 Member-at-Large, ACRL Digital Scholarship Section Executive Committee (2021-2023)
 
@@ -296,7 +296,7 @@ Islandora Release Teams:
 * Islandora 7.x-1.9 documentation (2017)
 * Islandora 7.x-1.8 testing (2016)
 
-University Service
+University Service Appointments
 ----
 Senator, Florida State University Faculty Senate (2021-2023)
 
@@ -312,7 +312,7 @@ Co-Chair, Florida State University Open Access Advisory Board (2016-2019)
 
 Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
 
-Library Service
+Library Service Appointments
 ----
 Chair-Elect, Florida State University Libraries Faculty Assembly Executive Committee (2021-2022)
 
