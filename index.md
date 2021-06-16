@@ -255,13 +255,15 @@ Service
 
 National, Regional, or Statewide Service
 ----
-Co-Chair, Association of Southeastern Research Libraries Scholarly Communications Interest Group (2020-2021)
+Member-at-Large, ACRL Digital Scholarship Section Executive Committee (2021-2023)
+
+Co-Chair, Association of Southeastern Research Libraries Scholarly Communications Interest Group (2020-2022)
 
 Member, [Expertise Systems in Florida Universities](https://expertnet.org/expertisesymposium/index.html) Virtual Symposium Steering Committee (2020) 
 
 Past-Chair, Coalition of Open Access Policy Institutions (COAPI) Steering Committee (2019-2020)
 
-Chair, COAPI Community Call Working Group (2019- )
+Chair, COAPI Community Call Working Group (2019-2021)
 
 Member, International Open Access Week Advisory Committee (2019)
 
@@ -299,6 +301,8 @@ University Service
 Senator, Florida State University Faculty Senate (2021-2023)
 
 Chair, Florida State University ORCID Task Force (2020- )
+
+Member, Florida State University Research Exposure Strategies Team (2020- )
 
 Member, Florida State University Faculty Development Research Team (2018-2020)
 
