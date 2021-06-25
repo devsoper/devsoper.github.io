@@ -69,6 +69,8 @@ Research & Service Outputs
 * COAPI Open House, March 30th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.oraj4ssb3qsz).
 * Making Green Open Access Work for Society Publishers: A Panel Discussion, June 16th. [Recording](https://youtu.be/sDO1Gt1gxUc), [agenda and notes](https://docs.google.com/document/d/1afnjMAppuQIDZW6WUrD_KkaERA48klnjdFqZkEFyE30/edit?usp=sharing).
 
+**ASERL Scholarly Communication Unconference.** Planned and facilitated with Zach Lukemire, ASERL Scholarly Communication Interest Group Co-chair, March 11-12. [Program and collaborative notes](https://docs.google.com/document/d/16dl8bGHfPszBrDkGYxXG5JzzJNiHBlscLe755pCZRQ0/edit?usp=sharing). 
+
 2020
 ----
 
