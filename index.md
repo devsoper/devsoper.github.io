@@ -71,6 +71,13 @@ Research & Service Outputs
 
 **ASERL Scholarly Communication Unconference.** Planned and facilitated with Zach Lukemire, ASERL Scholarly Communication Interest Group Co-chair, March 11-12. [Program and collaborative notes](https://docs.google.com/document/d/16dl8bGHfPszBrDkGYxXG5JzzJNiHBlscLe755pCZRQ0/edit?usp=sharing). 
 
+**ASERL Scholarly Communication Community Calls.** Planned and facilitated with Zach Lukemire, ASERL Scholarly Communication Interest Group Co-chair:
+* [Open Access Outreach in 2021](https://docs.google.com/document/d/18sQAFn1R0WLtL2ONPFzQD6A_adOYnnawgjQtWoV3jjs/edit?usp=sharing)
+* [Advocating for Responsible Research Assessment](https://docs.google.com/document/d/19GgNyDuGc7rYxdWtCJLv126j699A4nqOOwb_9rENXho/edit?usp=sharing)
+* [Scholarly Communication Certificate Programs](https://docs.google.com/document/d/1DSYmWreatMYOG3wGb-j1zujqVzLkUIiWPc1uYqZVZYU/edit?usp=sharing)
+* [Accelerating the Social Impact of Research](https://docs.google.com/document/d/1T05eO8g6Vla-Gtff-lnqoUsR0Q330XeMR8MdUmNfd7o/edit?usp=sharing)
+* [Transitioning *Cultural Anthropology* to Open Access](https://docs.google.com/document/d/1idEO2kZUATwTmf70NGf-GuDl-zEPPGCi63AQKMqdtBc/edit?usp=sharing)
+
 2020
 ----
 
