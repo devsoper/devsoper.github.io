@@ -58,10 +58,12 @@ Employment
 Research & Service Outputs
 ===========
 
+2022
+----
+**Article &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and published in the *Journal of Librarianship and Scholarly Communication*. Retrieved from [https://doi.org/10.31274/jlsc.12912](https://doi.org/10.31274/jlsc.12912)
+
 2021
 ----
-**Article under review &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and submitted to the *Journal of Librarianship and Scholarly Communication*.
-
 **Article &#x007C; Launching an institutional ORCID initiative at Florida State University.** Co-authored with Kelly Grove. Article published in *Issues in Science and Technology Librarianship 96*. Retrieved from [https://doi.org/10.29173/istl2581](https://doi.org/10.29173/istl2581)
 
 **Conference poster presentation  &#x007C; Journey to the cloud: Lessons learned in legacy application migration.** Co-presented with Favenzio Calvo and Louis Brooks. EDUCAUSE Annual Conference 2021, Pittsburgh, PA. [Link to poster](https://diginole.lib.fsu.edu/islandora/object/fsu:795146).
