@@ -1,7 +1,7 @@
 
 # Devin Soper #
 
-  * Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
+  * Interim Associate Dean for Technology and Digital Scholarship and Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
   * Email - work dsoper@fsu.edu personal devsoper@gmail.com
   * ORCID - [0000-0002-2667-4594](http://orcid.org/0000-0002-2667-4594)
 
