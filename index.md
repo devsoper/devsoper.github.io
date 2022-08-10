@@ -66,7 +66,7 @@ Research & Service Outputs
 
 **Conference presentation and paper &#x007C; Rethinking organizational structures to support digital innovation.** Co-presented and co-authored with Lindsey Wharton. IATUL Annual Conference 2022, Miami, FL. [Link to presentation](https://docs.google.com/presentation/d/1UYF5RThjKHRRutWDghWjM2wYwp9EXRAi/edit?usp=sharing&ouid=113739519107856057004&rtpof=true&sd=true). [Proceedings available soon](https://docs.lib.purdue.edu/iatul/).
 
-**Conference panel presentation &#x007C; Supporting equitable, quality education through the Journal of Postsecondary Student Success.** Presented at IFLA World Library and Information Congress 2022, Dublin, Ireland. [Link to presentation](https://docs.google.com/presentation/d/1kXYOeE1KsmwSzbAE_cssyCky-iEXEF_vtwoYqT8a6pc/edit?usp=sharing).
+**Conference panel presentation &#x007C; Supporting equitable, quality education through the *Journal of Postsecondary Student Success*.** Presented at IFLA World Library and Information Congress 2022, Dublin, Ireland. [Link to presentation](https://docs.google.com/presentation/d/1kXYOeE1KsmwSzbAE_cssyCky-iEXEF_vtwoYqT8a6pc/edit?usp=sharing).
 
 2021
 ----
