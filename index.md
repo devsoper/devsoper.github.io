@@ -34,6 +34,8 @@ Education
 Employment
 ==========
 
+2022 - Present &#x007C; Interim Associate Dean for Technology and Digital Scholarship, Florida State University
+
 2018 - Present &#x007C; Director, Office of Digital Research & Scholarship, Florida State University
 
 2015 - 2018 &#x007C; Scholarly Communications Librarian, Florida State University
@@ -62,11 +64,15 @@ Research & Service Outputs
 ----
 **Article &#x007C; Ask the editors: Assessing the publishing needs of faculty editors** Co-authored with Laura Miller, Liz Dunne, Camille Thomas, and Matthew Hunter and published in the *Journal of Librarianship and Scholarly Communication*. Retrieved from [https://doi.org/10.31274/jlsc.12912](https://doi.org/10.31274/jlsc.12912)
 
+**Conference presentation and paper &#x007C; Rethinking organizational structures to support digital innovation.** Co-presented and co-authored with Lindsey Wharton. IATUL Annual Conference 2022, Miami, FL. [Link to presentation](https://docs.google.com/presentation/d/1UYF5RThjKHRRutWDghWjM2wYwp9EXRAi/edit?usp=sharing&ouid=113739519107856057004&rtpof=true&sd=true). [Proceedings available soon](https://docs.lib.purdue.edu/iatul/).
+
+**Conference panel presentation &#x007C; Supporting equitable, quality education through the Journal of Postsecondary Student Success.** Presented at IFLA World Library and Information Congress 2022, Dublin, Ireland. [Link to presentation](https://docs.google.com/presentation/d/1kXYOeE1KsmwSzbAE_cssyCky-iEXEF_vtwoYqT8a6pc/edit?usp=sharing).
+
 2021
 ----
 **Article &#x007C; Launching an institutional ORCID initiative at Florida State University.** Co-authored with Kelly Grove. Article published in *Issues in Science and Technology Librarianship 96*. Retrieved from [https://doi.org/10.29173/istl2581](https://doi.org/10.29173/istl2581)
 
-**Conference poster presentation  &#x007C; Journey to the cloud: Lessons learned in legacy application migration.** Co-presented with Favenzio Calvo and Louis Brooks. EDUCAUSE Annual Conference 2021, Pittsburgh, PA. [Link to poster](https://diginole.lib.fsu.edu/islandora/object/fsu:795146).
+**Conference poster presentation &#x007C; Journey to the cloud: Lessons learned in legacy application migration.** Co-presented with Favenzio Calvo and Louis Brooks. EDUCAUSE Annual Conference 2021, Pittsburgh, PA. [Link to poster](https://diginole.lib.fsu.edu/islandora/object/fsu:795146).
 
 **SPARC/COAPI Community Calls.** Planned and facilitated with the Coalition of Open Access Policy Institutions (COAPI) Community Call Working Group: Carolyn Mills and Robin Sinn. 
 * Expanding Open Access Policy Beyond the Faculty, January 28th. [Agenda and notes](https://docs.google.com/document/d/1wfqrKQvtTspPN3_HmhukYq_xD8tkMWjWTzYhY3WGLGM/edit#bookmark=id.nj6uzyrs0vap).
