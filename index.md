@@ -282,6 +282,8 @@ Service
 
 National, Regional, or Statewide Service Appointments
 ----
+Member, International Federation of Library Associations Library Publishing Special Interest Group (2022- )
+
 Member-at-Large, ACRL Digital Scholarship Section Executive Committee (2021-2023)
 
 Co-Chair, Association of Southeastern Research Libraries Scholarly Communications Interest Group (2020-2022)
@@ -327,9 +329,9 @@ University Service Appointments
 ----
 Senator, Florida State University Faculty Senate (2021-2023)
 
-Chair, Florida State University ORCID Task Force (2020- )
+Chair, Florida State University ORCID Task Force (2020-2024)
 
-Member, Florida State University Research Exposure Strategies Team (2020- )
+Member, Florida State University Research Exposure Strategies Team (2020-2022)
 
 Member, Florida State University Faculty Development Research Team (2018-2020)
 
