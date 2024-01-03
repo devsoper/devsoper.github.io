@@ -1,7 +1,7 @@
 
 # Devin Soper #
 
-  * Interim Associate Dean for Technology and Digital Scholarship and Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
+  * Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
   * Email - work dsoper@fsu.edu personal devsoper@gmail.com
   * ORCID - [0000-0002-2667-4594](http://orcid.org/0000-0002-2667-4594)
 
@@ -34,7 +34,7 @@ Education
 Employment
 ==========
 
-2022 - Present &#x007C; Interim Associate Dean for Technology and Digital Scholarship, Florida State University
+2022 - 2023 &#x007C; Interim Associate Dean for Technology and Digital Scholarship, Florida State University
 
 2018 - Present &#x007C; Director, Office of Digital Research & Scholarship, Florida State University
 
@@ -59,6 +59,14 @@ Employment
 
 Research & Service Outputs
 ===========
+
+2023
+----
+**Article &#x007C; The Journal of Postsecondary Student Success: Lessons learned from launching a flagship journal** Co-authored with Matthew Hunter and published in *Case Studies in Library Publishing*. Retrieved from [https://cslp.pubpub.org/pub/k5byv38h](https://cslp.pubpub.org/pub/k5byv38h)
+
+**Article &#x007C; Standing up vendor-provided web hosting services at Florida State University Libraries: A case study** Co-authored with Matthew Hunter and Sarah Stanley and published in the *code4Lib Journal*. Retrieved from [[https://journal.code4lib.org/articles/17766](https://cslp.pubpub.org/pub/k5byv38h)](https://journal.code4lib.org/articles/17766)
+
+**Conference presentation &#x007C; Supporting open pedagogy through academic web hosting.** Presented at IFLA World Library and Information Congress 2023 satellite meeting, *The Global Impact of Library Publishing*, The Hague, The Netherlands. 
 
 2022
 ----
