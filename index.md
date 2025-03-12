@@ -1,21 +1,21 @@
 
 # Devin Soper #
 
-  * Director, Office of Digital Research and Scholarship, Florida State University Libraries in Tallahassee, Florida
-  * Email - work dsoper@fsu.edu personal devsoper@gmail.com
+  * Open Research Manager, Public Library of Science (PLOS)
+  * Email - work dsoper@plos.org personal devsoper@gmail.com
   * ORCID - [0000-0002-2667-4594](http://orcid.org/0000-0002-2667-4594)
 
 
 Research Interests
 =========
 
+* Open science practices
 * Open access scholarly publishing
 * Institutional repositories (policies, management, development)
 * Open educational resources, open pedagogy
 * Copyright and fair use in higher education
 * Research data management, data publishing
 * User experience and information architecture
-* The evolving role of functional specialists in academic libraries
 
 
 Education
@@ -34,9 +34,11 @@ Education
 Employment
 ==========
 
+2025 - present &#x007C; Open Research Manager, Public Library of Science (PLOS)
+
 2022 - 2023 &#x007C; Interim Associate Dean for Technology and Digital Scholarship, Florida State University
 
-2018 - Present &#x007C; Director, Office of Digital Research & Scholarship, Florida State University
+2018 - 2025 &#x007C; Director, Office of Digital Research & Scholarship, Florida State University
 
 2015 - 2018 &#x007C; Scholarly Communications Librarian, Florida State University
 
@@ -59,6 +61,10 @@ Employment
 
 Research & Service Outputs
 ===========
+
+2024
+----
+**Conference presentation &#x007C; Enhancing university rankings: The strategic role of academic librarians** Co-presented with Jeremy Katz. Coalition for Networked Information (CNI) Winter 2025 Pre-Recorded Project Briefings. Retrieved from [https://www.cni.org/topics/assessment/enhancing-university-rankings-the-strategic-role-of-academic-librarians](https://www.cni.org/topics/assessment/enhancing-university-rankings-the-strategic-role-of-academic-librarians)
 
 2023
 ----
