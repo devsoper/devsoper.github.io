@@ -62,6 +62,12 @@ Employment
 Research & Service Outputs
 ===========
 
+2025
+----
+**Book chapter &#x007C; Growing open science services from the ground up** Co-authored with Renaine Julian and Dr. Neelam Bharti. *The Open Science Cookbook* (pp. 23-27). Association of College and Research Libraries. Retrived from [https://alastore.ala.org/open-science-cookbook](https://alastore.ala.org/open-science-cookbook)
+
+**Conference panel presentation &#x007C; TOP 2025: An improved policy framework for increasing the verifiability of research** Co-presented with David Mellor, Pamela Davis-Kean, Sean Grant, and Annie Hill. Presented at the Council of Science Editors 2025 Annual Meeting, Minneapolis, Minnesota. 
+
 2024
 ----
 **Conference presentation &#x007C; Enhancing university rankings: The strategic role of academic librarians** Co-presented with Jeremy Katz. Coalition for Networked Information (CNI) Winter 2025 Pre-Recorded Project Briefings. Retrieved from [https://www.cni.org/topics/assessment/enhancing-university-rankings-the-strategic-role-of-academic-librarians](https://www.cni.org/topics/assessment/enhancing-university-rankings-the-strategic-role-of-academic-librarians)
