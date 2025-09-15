@@ -64,9 +64,19 @@ Research & Service Outputs
 
 2025
 ----
-**Book chapter &#x007C; Growing open science services from the ground up** Co-authored with Renaine Julian and Dr. Neelam Bharti. *The Open Science Cookbook* (pp. 23-27). Association of College and Research Libraries. Retrived from [https://alastore.ala.org/open-science-cookbook](https://alastore.ala.org/open-science-cookbook)
+**Grant-funded research &#x007C; PLOS _Redefining Publishing_ research and design project.** Aims to address two significant barriers in open science: lack of recognition for contributions beyond the article, and lack of affordability of APC-based business models. My roles included conducting desk research, semi-structured interviews, and qualitative data analysis. [More about the project here](https://plos.org/redefining-publishing/).
 
-**Conference panel presentation &#x007C; TOP 2025: An improved policy framework for increasing the verifiability of research** Co-presented with David Mellor, Pamela Davis-Kean, Sean Grant, and Annie Hill. Presented at the Council of Science Editors 2025 Annual Meeting, Minneapolis, Minnesota. 
+**Grant-funded research &#x007C; _PLOS Global Public Health_ preprint peer review experiment.** Part of a large grant to PLOS to support open access publishing and business model transformation, this experiment provides authors of submissions to _PLOS Global Public Health_ with the option to have PLOS post reviewer comments on the preprint versions of their submitted papers. The experiment also seeks to assess author attitudes toward this new publishing solution. I served as the project functional lead with duties related to survey design and validation, editorial policy updates, workflow design, internal and external communications, and success measurement. [More about the larger funded project here](https://theplosblog.plos.org/2024/12/plos-receives-3-3m-grant-to-support-open-access-publishing-business-model-transformation/).
+
+**Policy development research &#x007C; PLOS code availability policy.** With Lauren Cadwallader, conducted semi-structured interviews with 21 editors across three PLOS journals for which code availability policies are being considered. Analyzed qualitative data and presented written findings to internal stakeholders. 
+
+**Data release &#x007C; PLOS Open Science Indicators.** Assisted Iain Hrynaszkiewicz and Lauren Cadwallader with the 2025 release of [PLOS Open Science Indicators](https://doi.org/10.6084/m9.figshare.21687686.v10), an open science monitoring solution that tracks engagement with five different open science practices (data, code, preprints, protocols, and preregistrations) across PLOS journals as well as a range of comparator journals. My role involved testing / ground-truthing the updated preprint indicator as well as various tasks related to marketing and communication.
+
+**Working group &#x007C; Implementing Data Evaluation in Academia (IDEA).** Sponsored by [Make Data Count](https://makedatacount.org/) and [HELIOS Open](https://www.heliosopen.org/), the IDEA working group is developing resources to advance efforts to recognize and reward data publications and other data-related research accomplishments at academic institutions. The group plans to publish a maturity model, implementation guidelines, and case studies by the end of 2025. [More about the working group here](https://makedatacount.org/read-our-blog/implementing-data-evaluation-in-academia-working-group/).
+
+**Conference panel presentation &#x007C; TOP 2025: An improved policy framework for increasing the verifiability of research.** Co-presented with David Mellor, Pamela Davis-Kean, Sean Grant, and Annie Hill. Presented at the Council of Science Editors 2025 Annual Meeting, Minneapolis, Minnesota. 
+
+**Book chapter &#x007C; Growing open science services from the ground up.** Co-authored with Renaine Julian and Dr. Neelam Bharti. *The Open Science Cookbook* (pp. 23-27). Association of College and Research Libraries. Retrived from [https://alastore.ala.org/open-science-cookbook](https://alastore.ala.org/open-science-cookbook)
 
 2024
 ----
